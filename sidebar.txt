@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amv:home|Door43 (amv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amv|d43-amv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amv/archive/master.zip|d43-amv.zip]]
+
+**Recent Changes**
+{{changes>ns = amv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amv|Ethnologue data]]
+
